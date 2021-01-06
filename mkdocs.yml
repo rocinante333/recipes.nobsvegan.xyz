@@ -1,0 +1,53 @@
+site_name: No BS Vegan Recipes
+
+nav:
+  - Home: index.md
+  - Bakery:
+    - Cakes:
+      - Biscoff Marble Cake: biscoff-marble-cake-1.md
+      - Cheesecake with Chocolate Crust: cheesecake-with-chocolate-crust.md
+      - Classic Cheesecake: classic-cheesecake.md
+      - Lemon Cake: lemon-cake.md
+      - Red Velvet Cake: red-velvet-cake.md
+    - Cookies:
+      - Ginger Cookies: ginger-cookies.md
+      - Gingerbread Cookies: gingerbread-cookies.md
+      - Halloween Gingerbread Cookies: halloween-gingerbread-cookies.md
+      - Peanut Butter Cookies: peanut-butter-cookies.md
+      - Pumpkin Cookies: pumpkin-cookies.md
+      - Sugar Cookies: sugar-cookies.md
+    - Pies:
+      - Pecan Pie: pecan-pie.md
+      - Pumpkin Pie: pumpkin-pie.md
+    - Other:
+      - Lemon Bars: lemon-bars.md
+      - Meringue Ghosts 1: meringue-ghosts-1.md
+      - Meringue Ghosts 2: meringue-ghosts-2.md
+  - Entrees:
+    - Indian Chicken Curry: indian-chicken-curry.md
+    - Seitan Saltado (Peruvian Stir-Fry with Potatoes): seitan-saltado.md
+  - SaucesandSpreads:
+    - Barbecue Sauce : barbecue-sauce.md
+  - Drinks:
+    - Blood Orange Blackberry Rum Punch: blood-orange-blackberry-rum-punch.md
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: deep purple
+  font: false
+
+markdown_extensions:
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - footnotes
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.smartsymbols
+
