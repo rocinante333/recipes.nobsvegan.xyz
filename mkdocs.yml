@@ -8,6 +8,7 @@ nav:
       - Cheesecake with Chocolate Crust: cheesecake-with-chocolate-crust.md
       - Classic Cheesecake: classic-cheesecake.md
       - Lemon Cake: lemon-cake.md
+      - Lemon Cake 2: lemon-cake-2.md
       - Red Velvet Cake: red-velvet-cake.md
     - Cookies:
       - Ginger Cookies: ginger-cookies.md
@@ -50,4 +51,7 @@ markdown_extensions:
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.smartsymbols
-
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
