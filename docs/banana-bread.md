@@ -1,5 +1,7 @@
 # Banana Bread
 
+![Banana Bread](pictures/banana-bread.png)
+
 ## Ingredients
 
 - [ ] 2 cups all-purpose flour
