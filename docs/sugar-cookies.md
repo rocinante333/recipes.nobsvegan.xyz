@@ -5,24 +5,20 @@ Source: [noracooks.com](https://www.noracooks.com/vegan-sugar-cookies/)
 ## Ingredients
 
 === "Sugar Cookies"
-    | **Item**                                         | **Amount**   |
-    | --------------------------------------------------------- | ------------ |
-    | Vegan Butter (earth balance preferred), slightly softened | 3/4 Cup      |
-    | Sugar, granualted                                         | 3/4 Cup      |
-    | Cornstarch                                                | 1 Tbs        |
-    | Vanilla Extract                                           | 1 tsp        |
-    | Almond Extract (optional, but so good)                    | 1/4 tsp      |
-    | Flour, divided (correctly measured)                       | 2-2 1/4 Cups |
-    | Baking Powder                                             | 1/2 tsp      |
-    | Salt                                                      | 1/2 tsp      |
+    - [ ] 3/4 Cup Vegan Butter, slightly softened
+    - [ ] 3/4 Cup Sugar, granualted
+    - [ ] 1 Tbs Cornstarch
+    - [ ] 1 tsp Vanilla Extract
+    - [ ] 1/4 tsp Almond Extract (optional, but so good)
+    - [ ] 2-2 1/4 Cups Flour, divided (correctly measured)
+    - [ ] 1/2 tsp Baking Powder
+    - [ ] 1/2 tsp Salt
 === "Icing"
-    | **Item**                                                | **Amount** |
-    | -------------------------------------------------------- | ---------- |
-    | Powdered Sugar                                           | 1/2 Cups   |
-    | Vanilla Extract                                          | 1/2 tsp    |
-    | Almond Extract (optional)                                | 1/4 tsp    |
-    | Corn Syrup (can omit, but it makes the icing very shiny) | 1Tbs       |
-    | Almond Milk, unsweetened                                 | 1-2 Tbs    |
+    - [ ] 1/2 Cups Powdered Sugar
+    - [ ] 1/2 tsp Vanilla Extract
+    - [ ] 1/4 tsp Almond Extract (optional)
+    - [ ] 1 Tbs Corn Syrup (can omit, but it makes the icing very shiny)
+    - [ ] 1-2 Tbs Almond Milk, unsweetened
 
 
 

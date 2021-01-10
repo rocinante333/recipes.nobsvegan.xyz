@@ -3,29 +3,23 @@
 ## Ingredients
 
 === "Cake"
-    | **Item**                  | **Amount** |
-    | ------------------------- | ---------- |
-    | Flour, *all-purpose*      | 2 Cups     |
-    | Sugar, *white*            | 1 Cup      |
-    | Baking Soda               | 1 tsp      |
-    | Salt                      | 1/2 tsp    |
-    | Cocoa Powder              | 1 Tbs      |
-    | Milk                      | 1 Cup      |
-    | Vanilla Extract           | 2 tsp      |
-    | Olive Oil, *extra-virgin* | 1/3 Cup    |
-    | Vinegar, *white*          | 1 Tbs      |
-    | Red Food Dye              | 3 Tbs      |
+    - [ ] 2 Cups Flour, *all-purpose*
+    - [ ] 1 Cup Sugar, *white*
+    - [ ] 1 tsp Baking Soda
+    - [ ] 1/2 tsp Salt
+    - [ ] 1 Tbs Cocoa Powder
+    - [ ] 1 Cup Milk
+    - [ ] 2 tsp Vanilla Extract
+    - [ ] 1/3 Cup Olive Oil, *extra-virgin*
+    - [ ] 1 Tbs Vinegar, *white*
+    - [ ] 3 Tbs Red Food Dye
 === "Frosting"
-    | **Item**    | **Amount** |
-    | --------------- | ---------- |
-    | Powdered Sugar  | 3 3/4 Cups |
-    | Butter          | 3 Tbs      |
-    | Lemon Juice     | 4 Tbs      |
-    | Vanilla Extract | 1 tsp      |
+    - [ ] 3 3/4 Cups Powdered Sugar
+    - [ ] 3 Tbs Butter
+    - [ ] 4 Tbs Lemon Juice
+    - [ ] 1 tsp Vanilla Extract
 === "Decoration"
-    | **Item**      | **Amount** |
-    | ------------------- | ---------- |
-    | Maraschino Cherries | N/A        |
+    - [ ] Maraschino Cherries
 
 ## Instructions
 1. Preheat the oven to 350°F (180°C). Spray 2 7-inch cake pans with non-stick spray and line the bottoms with parchment paper. Set aside.

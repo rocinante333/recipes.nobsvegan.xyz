@@ -3,21 +3,17 @@
 ## Ingredients
 
 === "Oat Crust"
-    | **Item**         | **Amount**                   |
-    | --------------------- | ---------------------------- |
-    | Oats, *old-fashioned* | 1 1/2 Cups                   |
-    | Sugar                 | 2 tsp                        |
-    | Sea Salt              | 1/2 tsp                      |
-    | Oil                   | 1/4 Cup                      |
-    | Water, *ice-cold*     | 1/4 Cup (Varies, add slowly) |
+    - [ ] 1 1/2 Cups Oats, *old-fashioned*
+    - [ ] 2 tsp Sugar
+    - [ ] 1/2 tsp Sea Salt
+    - [ ] 1/4 Cup Oil
+    - [ ] 1/4 Cup Water *ice-cold* (Varies, add slowly)  
 === "Pumpkin Pie Filling"
-    | **Item**   | **Amount**      |
-    | ------------------------- | --------------- |
-    | Pumpkin Purée             | 1 Can (15oz)    |
-    | Coconut Milk, *sweetened* | 1 Can (11.25oz) |
-    | Sea Salt                  | 1/2 tsp         |
-    | Pumpkin Pie Spice         | 2 tsp           |
-    | Tapioca Starch            | 3 Tbs           |
+    - [ ] 1 Can (15oz) Pumpkin Purée
+    - [ ] 1 Can (11.25oz) Coconut Milk, *sweetened*
+    - [ ] 1/2 tsp Sea Salt
+    - [ ] 2 tsp Pumpkin Pie Spice
+    - [ ] 3 Tbs Tapioca Starch
 
 ## Instructions
 
