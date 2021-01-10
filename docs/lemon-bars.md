@@ -3,25 +3,19 @@
 ## Ingredients
 
 === "Shortbread Crust"
-    | **Item** | **Amount** |
-    | -------------------- | ---------- |
-    | Butter, melted       | 1/2 Cup    |
-    | Granulated Sugar     | 1/4 Cup    |
-    | Flour, all-purpose   | 1 Cup      |
-    | Salt                 | 1/4 tsp    |
+    - [ ] 1/2 Cup Butter, melted
+    - [ ] 1/4 Cup Granulated Sugar
+    - [ ] 1 Cup Flour, all-purpose
+    - [ ] 1/4 tsp Salt
 === "Lemon Filling"
-    | **Item**              | **Amount** |
-    | ------------------------------ | ---------- |
-    | Lemon Juice                    | 3/4 Cup    |
-    | Lemon Zest (Optional)          | 2 tsp      |
-    | Granulated Sugar               | 1 1/2 Cups |
-    | Coconut Milk, full fat         | 1 1/4 Cups |
-    | Cornstarch                     | 6 Tbs      |
-    | Turmeric, (Optional for color) | 1/8 tsp    |
+    - [ ] 3/4 Cup Lemon Juice
+    - [ ] 2 tsp Lemon Zest (Optional)
+    - [ ] 1 1/2 Cups Granulated Sugar
+    - [ ] 1 1/4 Cups Coconut Milk, full fat
+    - [ ] 6 Tbs Cornstarch
+    - [ ] 1/8 tsp Turmeric, (Optional for color)
 === "For Serving"
-    | **Item** | **Amount**    |
-    | --------------- | ------------- |
-    | Powdered Sugar  | dust the tops |
+    - [ ] Powdered Sugar to dust the tops
 
 
 

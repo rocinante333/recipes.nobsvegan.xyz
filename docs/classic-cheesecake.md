@@ -3,28 +3,22 @@
 ## Ingredients
 
 === "Cake"
-    | **Item**                                   | **Amount**    |
-    | ------------------------------------------ | ------------- |
-    | Raw Cashews, soaked beforehand and drained | 1 Cup         |
-    | Water                                      | 3 Tbs         |
-    | Lemon Juice, freshly squeezed              | 3 Tbs         |
-    | Cream Cheese                               | 24 Ounces     |
-    | Cane Sugar                                 | 1 Cup + 2 Tbs |
-    | Vanilla Extract                            | 2 tsp         |
-    | Cornstarch                                 | 1 Tbs         |
+    - [ ] 1 Cup Raw Cashews, soaked beforehand and drained
+    - [ ] 3 Tbs Water
+    - [ ] 3 Tbs Lemon Juice, freshly squeezed
+    - [ ] 24 Ounces Cream Cheese
+    - [ ] 1 Cup + 2 Tbs Cane Sugar
+    - [ ] 2 tsp Vanilla Extract
+    - [ ] 1 Tbs Cornstarch
 === "Crust"
-    | **Item**        | **Amount**       |
-    | --------------- | ---------------- |
-    | Graham Crackers | 8 Sheets (125 g) |
-    | Cane Sugar      | 1/4 Cup (48 g)   |
-    | Butter, melted  | 5 Tbs            |
+    - [ ] 8 Sheets (125 g) Graham Crackers
+    - [ ] 1/4 Cup (48 g) Cane Sugar
+    - [ ] 5 Tbs Butter, melted
 === "Blueberry Lemon Sauce (Optional)"
-    | **Item**                             | **Amount**     |
-    | ------------------------------------ | -------------- |
-    | Blueberries                          | 1 1/2 - 2 Cups |
-    | Cane Sugar                           | 2 Tbs          |
-    | Lemon Zest                           | 1 Lemon        |
-    | Water                                | 1/4 Cup        |
+    - [ ] 1 1/2 - 2 Cups Blueberries
+    - [ ] 2 Tbs Cane Sugar
+    - [ ] 1 Lemon Lemon Zest
+    - [ ] 1/4 Cup Water
 
 ## Instructions
 

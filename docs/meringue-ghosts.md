@@ -1,15 +1,15 @@
 # Meringue Ghosts 2
 
 ## Ingredients
-| **Item**                    | **Amount**                               |
-| --------------------------- | ---------------------------------------- |
-| Chickpeas (Aquafaba)        | 1 Can                                    |
-| Sugar, *caster*             | Ratio of 2 part sugar to 1 part aquafaba |
-| Cream of Tartar             | 1/4 tsp                                  |
-| Almond Extract (or vanilla) | 1 tsp                                    |
-| Chocolate                   | For decorating                           |
+
+- [ ] 1 Can Chickpeas (Aquafaba)
+- [ ] Powdered Sugar, Ratio of 2 part sugar to 1 part aquafaba
+- [ ] 1/4 tsp Cream of Tartar
+- [ ] 1 tsp Almond Extract (or vanilla)
+- [ ] Chocolate for decorating
 
 ## Instructions
+
 1. Preheat the oven to 200°F. Line baking trays with parchment paper.
 2. Put the aquafaba, cream of tartar, and almond extract in the bowl of your stand mixer or use a hand mixer.
 3. Start whisking on low speed, increasing to maximum once the meringue starts to double in volume. Continue whisking until it forms soft peaks.
@@ -19,4 +19,3 @@
 7. Pipe ghost shapes on the trays.
 8. Bake for 1 hour, without opening the oven door. The meringues are baked when dry and lift easily off the paper.
 9. Turn the oven off, leave the door partly open and let the meringues cool completely.
-

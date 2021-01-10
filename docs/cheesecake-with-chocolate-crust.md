@@ -3,36 +3,30 @@
 ## Ingredients
 
 === "Chocolate Dough"
-    | **Item**            | **Amount**      |
-    | ------------------- | --------------- |
-    | Flour               | 1 2/3 Cups      |
-    | Baking Powder       | 1 Tbs           |
-    | Salt                | 1 Pinch         |
-    | Cocoa Powder        | 1/3 Cup         |
-    | Sugar               | 1/2 Cup + 2 Tbs |
-    | Butter, *cold*      | 1/2 Cup         |
-    | Milk                | 2 Tbs           |
+    - [ ] 1 2/3 Cups Flour
+    - [ ] 1 Tbs Baking Powder
+    - [ ] 1 Pinch Salt
+    - [ ] 1/3 Cup Cocoa Powder
+    - [ ] 1/2 Cup + 2 Tbs Sugar
+    - [ ] 1/2 Cup Butter, *cold*
+    - [ ] 2 Tbs Milk
 === "Cheesecake Filling"
-    | **Item**                            | **Amount**      |
-    | ----------------------------------- | --------------- |
-    | Butter or Margarine                 | 1/3 Cup         |
-    | Cornstarch                          | 1/3 Cup         |
-    | Milk                                | 3-4 Tbs         |
-    | Soy Quark Drained Yogur or Sub Tofu | 17, 6 Ounce     |
-    | Coconut Milk, *full-fat*            | 1/2 Cup         |
-    | Vanilla Extract                     | 1 1/2 tsp       |
-    | Sugar                               | 1/2 Cup + 2 Tbs |
-    | Lemon Juice (Optional)              | 2 Tbs           |
+    - [ ] 1/3 Cup Butter or Margarine
+    - [ ] 1/3 Cup Cornstarch
+    - [ ] 3-4 Tbs Milk
+    - [ ] 17, 6 Ounce Soy Quark Drained Yogurt or Sub Tofu
+    - [ ] 1/2 Cup Coconut Milk, *full-fat*
+    - [ ] 1 1/2 tsp Vanilla Extract
+    - [ ] 1/2 Cup + 2 Tbs Sugar
+    - [ ] 2 Tbs Lemon Juice (Optional)
 === "To Decorate (Optional)"
-    | **Item**                   | **Amount** |
-    | -------------------------- | ---------- |
-    | Powdered Sugar             | N/A        |
-    | Fresh Raspberries          | N/A        |
+    - [ ] Powdered Sugar
+    - [ ] Fresh Raspberries
 
 ## Instructions
 
 === "Chocolate Dough"
-    1. Lightly grease an 8-inch spring-form pan and line the bottom with parchment paper. Then, place in the fridge for 5-10 minutes while you make the dough. (It's easier to press the dough into a chilled pan).
+    1. Lightly grease an 8-inch spring-form pan and line the bottom with parchment paper. Place in the fridge for 5-10 minutes while you make the dough. (It's easier to press the dough into a chilled pan).
     2. Combine the flour, baking powder, salt, cocoa and sugar in a mixing bowl. Cut the cold vegan butter into small pieces, then add to the flour mixture and knead everything with your hands (or use a food processor) until a dough forms. Add the non-dairy milk as needed.
     3. Reserve about 1/3 of the dough for the spots on top. Roll out the remaining dough as shown in the step-by-step photos above and place it in the spring-form pan. (If the dough is very sticky, you can wrap it in cling foil and refrigerate for 1 hour, so the butter solidifies and the dough gets firmer).
 === "Cheesecake Filling"

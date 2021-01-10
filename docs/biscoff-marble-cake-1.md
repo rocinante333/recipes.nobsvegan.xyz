@@ -3,36 +3,28 @@
 ## Ingredients
 
 === "Cake Batter"
-    | **Item**                        | **Amount** |
-    | -------------------------------------- | ---------- |
-    | Flour, all-purpose                     | 3 Cups     |
-    | Cane Sugar                             | 1 3/4 Cups |
-    | Baking Soda                            | 2 1/2 tsp  |
-    | Sea Salt, fine                         | 1/8 tsp    |
-    | Almond Milk (or other dairy-free milk) | 1 1/2 Cups |
-    | Avocado oil (or other vegetable oil)   | 3/4 Cup    |
-    | Lemon Juice                            | 1/4 Cup    |
-    | Vanilla Extract                        | 1 tsp      |
+    - [ ] 3 Cups Flour, all-purpose
+    - [ ] 1 3/4 Cups Cane Sugar
+    - [ ] 2 1/2 tsp Baking Soda
+    - [ ] 1/8 tsp Sea Salt, fine
+    - [ ] 1 1/2 Cups Almond Milk (or other dairy-free milk)
+    - [ ] 3/4 Cup Avocado oil (or other vegetable oil)
+    - [ ] 1/4 Cup Lemon Juice
+    - [ ] 1 tsp Vanilla Extract
 === "Frosting"
-    | **Item**          | **Amount** |
-    | --------------------- | ---------- |
-    | Butter                | 6 Tbs      |
-    | Vegetable Shortening  | 2 Tbs      |
-    | Biscoff Cookie Butter | 2 Tbs      |
-    | Powered Sugar         | 3 Cups     |
-    | Vanilla Extract       | 1 tsp      |
-    | Almond Milk           | 1-2 Tbs    |
+    - [ ] 6 Tbs Butter
+    - [ ] 2 Tbs Vegetable Shortening
+    - [ ] 2 Tbs Biscoff Cookie Butter
+    - [ ] 3 Cups Powered Sugar
+    - [ ] 1 tsp Vanilla Extract
+    - [ ] 1-2 Tbs Almond Milk
 === "Biscoff Batter"
-    | **Item**    | **Amount** |
-    | --------------------- | ---------- |
-    | Almond Milk           | 2 1/2 tbsp |
-    | Biscoff Cookie Butter | 1/3 Cup    |
+    - [ ] 2 1/2 tbsp - Almond Milk
+    - [ ] 1/3 Cup Biscoff Cookie Butter
 === "To Assemble"
-    | **Item**       | **Amount**    |
-    | --------------------- | ------------- |
-    | Biscoff Cookie Crumbs | 1/2 Cup       |
-    | Biscoff Cookie Butter | 1/3 Cup       |
-    | Biscoff Cookies       | A few of them |
+    - [ ] 1/2 Cup Biscoff Cookie Crumbs
+    - [ ] 1/3 Cup Biscoff Cookie Butter
+    - [ ] A few Biscoff Cookies
 
 ## Instructions
 

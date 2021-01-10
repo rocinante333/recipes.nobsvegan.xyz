@@ -3,26 +3,22 @@
 ## Ingredients
 
 === "Lemon Cake"
-    | **Item**                  | **Amount**       |
-    | ------------------------------- | ---------------- |
-    | Flour, *all-purose*             | 2 ½ Cups + 2 Tbs |
-    | Sugar, *white*                  | 1 ½ Cups         |
-    | Baking Soda                     | 1 ½ tsp          |
-    | Salt                            | ¾ tsp            |
-    | Milk                            | 1 ½ Cups         |
-    | Olive Oil, *extra virgin*       | ½ Cup            |
-    | Vinegar, *white or apple cider* | 1 Tbs            |
-    | Vanilla Extract                 | 1 tsp            |
-    | Lemon Extract                   | 3 tsp            |
-    | Lemon Zest                      | 2 Tbs            |
+    - [ ] 2 ½ Cups + 2 Tbs Flour, *all-purose*
+    - [ ] 1 ½ Cups Sugar, *white*
+    - [ ] 1 ½ tsp Baking Soda
+    - [ ] ¾ tsp Salt
+    - [ ] 1 ½ Cups Milk
+    - [ ] ½ Cup Olive Oil, *extra virgin*
+    - [ ] 1 Tbs Vinegar, *white or apple cider*
+    - [ ] 1 tsp Vanilla Extract
+    - [ ] 3 tsp Lemon Extract
+    - [ ] 2 Tbs Lemon Zest
 === "Lemon Butter Cream Frosting"
-    | **Item** | **Amount** |
-    | ------------------------------- | ---------- |
-    | Sugar, powdered                 | 4 ½ Cups   |
-    | Butter                          | ½ Cup      |
-    | Lemon Extract                   | 2 tsp      |
-    | Lemon Juice                     | 3 ½ Tbs    |
-    | Lemon Zest                      | N/A        |
+    - [ ] 4 ½ Cups Sugar, powdered
+    - [ ] ½ Cup Butter
+    - [ ] 2 tsp Lemon Extract
+    - [ ] 3 ½ Tbs Lemon Juice
+    - [ ] Lemon Zest
 
 ## Instructions
 1. Preheat the oven to 350°F (180°C).
