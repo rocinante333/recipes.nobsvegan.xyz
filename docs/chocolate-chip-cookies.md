@@ -1,4 +1,4 @@
-# Chocolate Chip Cookies (Original)
+# Chocolate Chip Cookies
 
 ## Ingredients
 

@@ -1,7 +1,5 @@
 # Dirt Cake
 
-Classic dirt cake turned vegan thanks to coconut whipped cream, vegan cream cheese, and Oreos. 
-
 ![Dirt Cake](pictures/dirt-cake.png)
 
 ## Ingredients

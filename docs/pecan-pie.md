@@ -1,6 +1,6 @@
 # Pecan Pie
 
-Source: [healthiersteps.com](https://healthiersteps.com/recipe/vegan-pecan-pie/)
+!!! tip "Source: [healthiersteps.com](https://healthiersteps.com/recipe/vegan-pecan-pie/)"
 
 ## Ingredients
 

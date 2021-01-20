@@ -7,7 +7,9 @@ nav:
       - Banana Bread: banana-bread.md
     - Cakes:
       - Apple Cider Cake: apple-cider-cake.md
+      - Basbousa (Semolina Cake): basbousa-semolina-cake.md
       - Biscoff Marble Cake: biscoff-marble-cake-1.md
+      - Chai Tea Spiced Cake with Coconut Frosting: chai-tea-spice-cake-with-coconut-frosting.md
       - Cheesecake with Chocolate Crust: cheesecake-with-chocolate-crust.md
       - Classic Cheesecake: classic-cheesecake.md
       - Dirt Cake: dirt-cake.md
@@ -16,26 +18,31 @@ nav:
       - Red Velvet Cake: red-velvet-cake.md
       - Vanilla Cake: vanilla-cake.md
     - Cookies:
-      - Chocolate Chip Cookies (Original): chocolate-chip-cookies.md
+      - Chocolate Chip Cookies: chocolate-chip-cookies.md
       - Ginger Cookies: ginger-cookies.md
       - Gingerbread Cookies: gingerbread-cookies.md
       - Halloween Gingerbread Cookies: halloween-gingerbread-skeleton-cookies.md
       - Peanut Butter Cookies: peanut-butter-cookies.md
       - Pumpkin Cookies: pumpkin-cookies.md
-      - Sugar Cookies: sugar-cookies.md
+      - Sugar Cookies 1: sugar-cookies-1.md
+      - Sugar Cookies 2: sugar-cookies-2.md
     - Cupcakes:
       - Funfetti Cupcakes: funfetti-cupcakes.md
+      - Matcha Cupcakes: matcha-cupcakes.md
+    - Frostings:
+      - Cream Cheese: cream-cheese-frosting.md
     - Pies:
       - Peanut Butter Pie: peanut-butter-pie.md
       - Pecan Pie: pecan-pie.md
-      - Pumpkin Pie: pumpkin-pie.md
+      - Pumpkin Pie with Oat Crust: pumpkin-pie-with-oat-crust.md
     - Other:
       - Lemon Bars: lemon-bars.md
+      - Maamoul: maamoul.md
       - Meringue Ghosts: meringue-ghosts.md
   - Entrees:
     - Indian Chicken Curry: indian-chicken-curry.md
     - Seitan Saltado (Peruvian Stir-Fry with Potatoes): seitan-saltado.md
-  - SaucesandSpreads:
+  - Sauces and Spreads:
     - Barbecue Sauce : barbecue-sauce.md
   - Drinks:
     - Blood Orange Blackberry Rum Punch: blood-orange-blackberry-rum-punch.md

@@ -1,6 +1,6 @@
 # Gingerbread Cookies
 
-[Source: bohemianvegankitchen.com](https://bohemianvegankitchen.com/classic-vegan-gingerbread-cookies/)
+!!! tip "Source: [bohemianvegankitchen.com](https://bohemianvegankitchen.com/classic-vegan-gingerbread-cookies/)"
 
 ## Ingredients
 

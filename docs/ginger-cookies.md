@@ -1,6 +1,6 @@
 # Ginger Cookies
 
-Source: [noracooks.com](https://www.noracooks.com/vegan-ginger-cookies/)
+!!! tip "Source: [noracooks.com](https://www.noracooks.com/vegan-ginger-cookies/)"
 
 ## Ingredients
 
