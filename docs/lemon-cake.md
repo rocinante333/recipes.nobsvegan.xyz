@@ -1,9 +1,13 @@
 # Lemon Cake
 
+!!! tip "Source: [Loving It Vegan](https://lovingitvegan.com/vegan-lemon-cake/)"
+
+![Lemon Cake](pictures/lemon-cake.png)
+
 ## Ingredients
 
 === "Lemon Cake"
-    - [ ] 2 ½ Cups + 2 Tbs Flour, *all-purose*
+    - [ ] 2 2/3 Cups + 2 Tbs Flour, *all-purose*
     - [ ] 1 ½ Cups Sugar, *white*
     - [ ] 1 ½ tsp Baking Soda
     - [ ] ¾ tsp Salt

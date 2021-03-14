@@ -11,6 +11,7 @@ nav:
       - Biscoff Marble Cake: biscoff-marble-cake-1.md
       - Chai Tea Spiced Cake with Coconut Frosting: chai-tea-spice-cake-with-coconut-frosting.md
       - Cheesecake with Chocolate Crust: cheesecake-with-chocolate-crust.md
+      - Chocolate Cake: chocolate-cake.md
       - Classic Cheesecake: classic-cheesecake.md
       - Dirt Cake: dirt-cake.md
       - Lemon Cake: lemon-cake.md
@@ -22,6 +23,7 @@ nav:
       - Ginger Cookies: ginger-cookies.md
       - Gingerbread Cookies: gingerbread-cookies.md
       - Halloween Gingerbread Cookies: halloween-gingerbread-skeleton-cookies.md
+      - Oatmeal Raisin Cookies: oatmeal-raisin-cookies.md
       - Peanut Butter Cookies: peanut-butter-cookies.md
       - Pumpkin Cookies: pumpkin-cookies.md
       - Sugar Cookies 1: sugar-cookies-1.md
@@ -46,6 +48,7 @@ nav:
     - Barbecue Sauce : barbecue-sauce.md
   - Drinks:
     - Blood Orange Blackberry Rum Punch: blood-orange-blackberry-rum-punch.md
+    - Red Sangria: red-sangria.md
 
 theme:
   name: material

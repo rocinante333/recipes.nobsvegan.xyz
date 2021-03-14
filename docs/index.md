@@ -8,4 +8,4 @@
 
 
 !!! info "Source Corrections, Recipe Additions"
-    All recipes are [stored on GitHub](https://github.com/rocinante333/recipes.nobsvegan.xyz).  You can make a Pull Request or file an Issue as needed.
+    All recipes are [stored on GitHub](https://github.com/rocinante333/recipes.nobsvegan.xyz).
